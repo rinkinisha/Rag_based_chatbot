@@ -18,6 +18,7 @@ function Message({ message }) {
       )}
     </div>
   );
+  
 }
 
 export default Message;

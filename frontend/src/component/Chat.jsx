@@ -9,6 +9,7 @@ function Chat() {
         "Hello! Ask me anything about React, Node.js, or MongoDB."
     }
   ]);
+  
 
   const [question, setQuestion] = useState("");
   const [loading, setLoading] = useState(false);
